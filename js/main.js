@@ -28,4 +28,4 @@ $body.on('animationend', '.circle', function () {
 
 $body.on('click', '.btn-append', function () {
   $('.list').append('<li>New List Item</li>');
-});
+}
